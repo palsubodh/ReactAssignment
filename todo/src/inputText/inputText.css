@@ -1,0 +1,29 @@
+/* .container{
+   
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    padding: 15px;
+
+} */
+#input{
+    margin: 10px;
+}
+#button{
+    background-color: blue;
+    color: white;
+    border-radius: 8px;
+    padding: 5px;
+}
+#button :hover{
+    background-color: red;
+    color: white;
+    border-radius: 8px;
+    padding: 5px;
+}
+#p{
+    /* border: 2px solid red; */
+    background-color: black;
+    color: white;
+}
+
