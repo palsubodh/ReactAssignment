@@ -8,11 +8,11 @@ class UserfromData extends React.Component {
   }
 
   onSubmit(e) {
-    e.preventDefault();
+    //  e.preventDefault();
     console.log("Changes");
   }
   onClick(e) {
-    e.preventDefault();
+    // e.preventDefault();
     console.log("hi");
     let firstName = document.querySelector("#firstName").value;
     let lastName = document.querySelector("#lastName").value;
